@@ -1,5 +1,3 @@
-build:
 
-    worker: start.sh
 run:
   worker: bash start.sh
