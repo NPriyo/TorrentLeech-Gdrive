@@ -6,3 +6,5 @@ pyrogram
 tgcrypto
 youtube-dl
 hurry.filesize
+mkvtoolnix
+ffmpeg
