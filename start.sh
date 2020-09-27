@@ -1,1 +1,2 @@
-python3 -m tobrot
+p
+python3-m tobrot
